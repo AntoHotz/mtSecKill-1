@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: sync-
+name: sync-zqjzqj/mtSecKill
 on:
   schedule:
   - cron:  "*/15 * * * *"
